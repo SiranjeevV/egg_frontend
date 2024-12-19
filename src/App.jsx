@@ -10,7 +10,7 @@ function App() {
       </div>
 
       {/* Main content area */}
-     <div>main content</div>
+     {/* <div >main content</div> */}
     </div>
   );
 }
